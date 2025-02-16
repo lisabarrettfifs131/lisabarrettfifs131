@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm lisabarrettfifs131
 
-<!--
-**lisabarrettfifs131/lisabarrettfifs131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏊 🎯 🛼 A hacker in data science 🏊 🎯 🛼
 
-Here are some ideas to get you started:
+## About Me
+🎮 💡 Dedicated to mastering augmented reality 🎮 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚵 🥋 🏓 🎰 A hacker in augmented reality 🚵 🥋 🏓 🎰
+
+### Fun Facts
+🎳 🛼 🎺 Hacking on internet of things 🎳 🛼 🎺
+
+---
+🌈 🥋 🎳 🚣 🛼 Thanks for visiting my profile! 🏑 🎸 🎱 🎯 🥊
